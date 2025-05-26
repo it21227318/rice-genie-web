@@ -1,0 +1,4 @@
+export const ResearchProbData = {
+  heading: "Research Problem",
+  description: 'Paddy farming in Sri Lanka suffers from low productivity due to outdated practices, lack of real-time data use, and limited access to modern decision-support systems. Existing yield prediction and disease detection models are either based on static data or optimized in lab conditions, making them ineffective for smallholder farmers. Moreover, weed and variety management lacks intelligent, localized solutions. There is a critical need for a comprehensive, user-friendly, data-driven system that supports paddy yield forecasting, disease identification with treatment advice, and weed detection tailored to Sri Lanka’s diverse agro-ecological zones.'
+};
